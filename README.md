@@ -48,8 +48,6 @@ Ensure your virtual environment is active before running any script.
 
 ### Task : run
 
-Run the script to verify set uniqueness and element lookup:
-
 ```bash
 python ai_assitant.py
 ```
